@@ -1,6 +1,6 @@
 
 import React, { Component } from "react";
-import fullstackpicture from '/home/reactjs/Reactjs_constreng/constreng/constreng/src/full-stack.jpg';
+import fullstackpicture from './full-stack.jpg';
 
  
 class fullstack extends Component {

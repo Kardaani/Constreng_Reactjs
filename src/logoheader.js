@@ -1,6 +1,6 @@
 
 import React, { Component } from "react";
-import constrenglogo from '/home/reactjs/Reactjs_constreng/constreng/constreng/src/constrenglogo.png';
+import constrenglogo from './constrenglogo.png';
 
  
 class logoheader extends Component {

@@ -1,6 +1,6 @@
 
 import React, { Component } from "react";
-import helsinkimap from '/home/reactjs/Reactjs_constreng/constreng/constreng/src/MapofHelsinki.gif';
+import helsinkimap from './MapofHelsinki.gif';
 
  
 class contact extends Component {

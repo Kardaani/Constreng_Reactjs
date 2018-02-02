@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 //import BackgroundImage from 'react-background-image-loader';
-import bigdatapicture from '/home/reactjs/Reactjs_constreng/constreng/constreng/src/big-data2.jpg';
+import bigdatapicture from './big-data2.jpg';
 
 
 
