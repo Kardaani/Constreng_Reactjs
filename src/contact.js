@@ -12,6 +12,8 @@ class contact extends Component {
         </div>
 
         <h2>Contact information</h2>
+
+	<h3>CEO: <strong>Kari Eronen</strong></h3>
 	<p> Constreng is situated in Helsinki, address: BC Papula, Fredrikinkatu 61, 6.krs
 00100 Helsinki
 </p>

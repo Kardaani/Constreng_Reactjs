@@ -18,7 +18,7 @@ class fullstack extends Component {
         <h2>FULL STACK SERVICES</h2>
 
 	<p>
-Constreng offers Full Stack Web development services with modern frameworks: Reactjs.
+Constreng offers Full Stack Web development MERN-services by using Reactjs-framework.
 </p>
 
           <p>
