@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import datamodelpicture from './data-model-house.jpg';
+import datamodelpicture from './3d-model-house.jpg';
 
  
 class datamodeling extends Component {
