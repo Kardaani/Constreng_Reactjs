@@ -6,6 +6,7 @@ import {
   HashRouter
 } from "react-router-dom";
 import Summary from "./Summary";
+import suomeksi from "./suomeksi";
 import bigdata from "./bigdata";
 import fullstack from "./fullstack";
 import datamodeling from "./datamodeling";
@@ -26,6 +27,7 @@ class Main extends Component {
 
           <ul className="header">
             <li><NavLink exact to="/">Summary</NavLink></li>
+	   <li><NavLink to="/suomeksi">Suomeksi</NavLink></li>
             <li><NavLink to="/bigdata"> Big data analysis</NavLink></li>
             <li><NavLink to="/fullstack">Full stack development</NavLink></li>
 	    <li><NavLink to="/datamodeling">Data modeling</NavLink></li>
@@ -34,6 +36,7 @@ class Main extends Component {
           </ul>
           <div className="content">
             <Route exact path="/" component={Summary}/>
+	   <Route path="/suomeksi" component={suomeksi}/>
             <Route path="/bigdata" component={bigdata}/>
             <Route path="/fullstack" component={fullstack}/>
 	    <Route path="/datamodeling" component={datamodeling}/>
